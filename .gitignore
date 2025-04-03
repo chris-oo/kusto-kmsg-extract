@@ -1,3 +1,6 @@
 /target
+/raw
+/filtered
 *.csv
 *.txt
+.DS_Store
